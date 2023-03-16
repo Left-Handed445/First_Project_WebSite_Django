@@ -1,2 +1,2 @@
-# First_Project_WebSite_Django
+# it's This is my first project using the Django Framework!
 No more!
